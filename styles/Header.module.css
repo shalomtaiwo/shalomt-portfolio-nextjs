@@ -1,0 +1,25 @@
+.header{
+    width: 100vw;
+    height: 70px;
+    border-bottom: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 20px;
+  }
+
+  .nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+  }
+  .nav nav{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .nav nav a{
+    padding: 0 20px;
+  }
